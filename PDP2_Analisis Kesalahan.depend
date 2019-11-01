@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475112724 source:h:\materi\dasar pemograman\tugas\pdp2_analisis kesalahan\main.c
+	<stdio.h>
+	<stdlib.h>
+
